@@ -1,5 +1,7 @@
 # PwC-Power-BI-Virtual-Experience-Program
-1.Developed call center trends dashboard offering all relevant Key Performance Indicators (KPIs) for QTR 1 Overall customer satisfaction, Overall calls answered/abandoned, Calls by time, Average speed of answer
+
+
+1. Developed call center trends dashboard offering all relevant Key Performance Indicators (KPIs) for QTR 1 Overall customer satisfaction, Overall calls answered/abandoned, Calls by time, Average speed of answer
 Agent’s performance - average handle time (talk duration) vs calls answered, 750+ calls handled by agents on Monday and Saturday.
 
 2. Developed a Customer Retention Dashboard as a Marketing Executive, identified churning customers, resulting in a 26.54% churn rate and 73.46% customer retention. Loss due to churn customer around 2.86M , most of the customer prefers taken two year contract who are retained in business.
